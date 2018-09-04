@@ -5,12 +5,13 @@ class Dog
   end
   def name=(name, breed )
     @Name = name
-    @breed ="Mutt"
+    @breed = breed
   end
   def name
     @name
   end
   def breed
     @breed
+    default "Mutt"
   end
 end
