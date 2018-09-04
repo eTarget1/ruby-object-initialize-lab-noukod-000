@@ -5,7 +5,7 @@ class Dog
   end
   def name=(name, breed )
     @Name = name
-    @breed = "Mutt"
+    @breed ="Mutt"
   end
   def name
     @name
