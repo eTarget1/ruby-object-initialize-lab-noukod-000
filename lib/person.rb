@@ -8,6 +8,5 @@ class Person
  end
  def name
    @name
-   
  end
  end
