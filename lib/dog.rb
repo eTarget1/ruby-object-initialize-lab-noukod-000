@@ -5,5 +5,4 @@ class Dog
     default "Mutt"
   end
 end
-
 end
