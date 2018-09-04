@@ -3,7 +3,10 @@ class Person
     @name=name
  end
 
- def Dog()
+ end
+
+
+ class Dog()
    
    
  end
