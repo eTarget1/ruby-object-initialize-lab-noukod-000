@@ -12,5 +12,6 @@ class Dog
   end
   def breed
     @breed
+    default "Mutt"
   end
 end
